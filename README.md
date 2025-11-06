@@ -1,9 +1,5 @@
 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=true&text=0xlestera&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient&animation=fadeIn" alt="Header banner" />
-</div>
-
 
 <div align="center">
   <h3>Languages and Tools</h3>
