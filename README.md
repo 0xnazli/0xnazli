@@ -4,22 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=true&text=0xlestera&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient&animation=fadeIn" alt="Header banner" />
 </div>
 
-<br />
-
-<div align="center">
-  <h2>Connect with me</h2>
-  <a href="https://twitter.com/0xlestera" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="32" width="40" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://i.imgflip.com/65efzo.gif" alt="Animated character" height="150" />
-</div>
-
-<br />
 
 <div align="center">
   <h3>Languages and Tools</h3>
